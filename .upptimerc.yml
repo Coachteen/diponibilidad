@@ -5,10 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Coach 
     url: https://coachteen.com/
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: academy
+    url:  https://coachteen.academy/login/index.php
   - name: Hacker News
-    url: https://news.ycombinator.com
+    url: https://news.ycombinator
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co  
 
